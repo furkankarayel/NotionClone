@@ -1,0 +1,65 @@
+{
+	"title": "Welcome to Notez",
+	"nodes": [
+		{
+			"type": "text",
+			"value": "This app is written in React + TypeScript and works similarly to Notion. For example, try entering the text below this paragraph 👇",
+			"id": "2D4yJk5v9Tz1a0G4IuO9Y0"
+		},
+		{ "type": "text", "value": "", "id": "5nX0pJxv9Lk3tZ08F5DbJ7" },
+		{
+			"type": "text",
+			"value": "You can also add lists, to do this bring up the command palette by starting a new line with `/`",
+			"id": "zB3p7eTwI0wFxQ4Qj2P9dS"
+		},
+		{ "type": "text", "value": "", "id": "R5p8V0z6Nxk2MlP9o0r9Jt" },
+		{
+			"type": "text",
+			"value": "Here are a few list items just to show how it looks like:",
+			"id": "3jR4xY3dV8P2Qg1Pp6kZz9"
+		},
+		{ "type": "list", "value": "First item", "id": "6H7wz5r0A0eS1Fcw1j9Fk7" },
+		{ "type": "list", "value": "Second item", "id": "3O1JXv9kI8zJ0wF7q4D8dK" },
+		{ "type": "list", "value": "Third item", "id": "9tM0h6GJ3y0oS1qO23WlD1" },
+		{ "type": "text", "value": "", "id": "D7oLz2F8Xy0j9w9P6NrOqL" },
+		{
+			"type": "heading2",
+			"value": "You can add headings as well",
+			"id": "1uK0W0z7vY5n5O8tIhJlQb"
+		},
+		{
+			"type": "text",
+			"value": "If you tried adding list items, you've noticed that there are also other types of blocks.",
+			"id": "7e8W2yV9w1mS9Z5VtR4LkK"
+		},
+		{ "type": "text", "value": "", "id": "Q6kG8x1M2E7dV0tU2w1f7X" },
+		{
+			"type": "text",
+			"value": "Currently the app supports:",
+			"id": "R5V9o0kT8qW4BvZ2B1L1R5"
+		},
+		{ "type": "list", "value": "regular text", "id": "9bQ9NzV6oT1K8v3D2R2h4f" },
+		{
+			"type": "list",
+			"value": "unordered lists",
+			"id": "4S6qF9yR8G5zQ0tO1W2p2M"
+		},
+		{
+			"type": "list",
+			"value": "heading levels 1-3",
+			"id": "3z0l1yO4d3g2HkYv7P9v9b"
+		},
+		{ "type": "list", "value": "images", "id": "zR8J0q0L0y7xS2u0V9O0l3" },
+		{
+			"type": "list",
+			"value": "links to other pages",
+			"id": "1lM0xR2j7T5nB8hA5g2b5f"
+		},
+		{ "type": "text", "value": "", "id": "C8w9pR0v3l2mT8V7r1Z0qB" },
+		{
+			"type": "text",
+			"value": "Try adding a new page.",
+			"id": "T0w5G5v9l7hP8y4L5O2lT2"
+		}
+	]
+}
